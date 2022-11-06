@@ -1,1 +1,1 @@
-# Chinese Bible Title Survey
+# Bible Title Survey
